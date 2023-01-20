@@ -18,6 +18,7 @@ gem "puma", "~> 5.0"
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 
+gem 'dotenv-rails', groups: %i[development test]
 gem 'rack-cors'
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
