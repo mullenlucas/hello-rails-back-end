@@ -29,7 +29,7 @@
 
 # 📖 Hello Rails - Backend <a name="about-project"></a>
 
-> This project is intended to set-up and initialize a RoR project along with React using Webpack
+> This project is intended to set-up and initialize a RoR project as a backend service along other serviecs such as React for the frontend
 
 **Hello Rails - Backend** is the initializing base blueprint project for building apps using RoR as the backend service
 
@@ -37,7 +37,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> This Web App was built with Ruby on Rails and React, using Gitflow and customized Linters
+> This App backend template was built with Ruby on Rails, using Gitflow and customized Linters
 
 <details>
   <summary>Client</summary>
@@ -57,6 +57,13 @@
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Frontend</summary>
+  <ul>
+    <li><a href="https://github.com/mullenlucas/hello-react-front-end">React Frontend Repository</a></li>
   </ul>
 </details>
 
