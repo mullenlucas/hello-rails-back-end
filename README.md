@@ -99,8 +99,8 @@ To get a local copy up and running, follow these steps.
 ### Clone the repository
 
 ```shell
-git clone https://github.com/mullenlucas/hello-rails-react.git
-cd hello-rails-react
+git clone https://github.com/mullenlucas/hello-rails-back-end.git
+cd hello-rails-back-end
 ```
 
 ### Install
