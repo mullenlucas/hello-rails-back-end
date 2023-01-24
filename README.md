@@ -163,12 +163,11 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - To all the collaborators for the Readme Template
 - The Microverse Team
-- Tutorial for setting-up this project taken from [this tutorial](https://betterprogramming.pub/react-with-rails-2022-bd28e1fcd355#ad0a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
